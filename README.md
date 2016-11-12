@@ -9,7 +9,7 @@ A simple api for serving up quotes from Phillip J Fry. Built with [node](https:/
 
 
 #### Currently hosted on Heroku @ https://fry-quotes-api.herokuapp.com/
-feel free to use for your FCC "Build a Random Quote Machine" projects!
+Feel free to use for your FCC "Build a Random Quote Machine" projects!
 
 ### Currently accepted params:
 * /quote/random for a random quote

@@ -1,6 +1,6 @@
 # fry-quotes-api
 
-A simple api for serving up quotes from Phillip J Fry as json. Feel free to use for your FCC projects! More quotes and more characters coming eventually. 
+A simple api for serving up quotes from Phillip J Fry. Built with [node](https://nodejs.org/en/) + [express](http://expressjs.com/). More quotes and more characters coming eventually. 
 
 ## Planned Updates
 - [ ] Add more quotes from Fry.

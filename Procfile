@@ -1,0 +1,1 @@
+web: node fryQuote.js

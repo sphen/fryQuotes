@@ -15,7 +15,7 @@ Feel free to use for your FCC "Build a Random Quote Machine" projects!
 
 ### Currently accepted params:
 
-- /quote/random for a random quote
-- /quote/id for a specific quote (currently 50 quotes)
+- /quotes/random for a random quote
+- /quotes/id for a specific quote (currently 50 quotes)
 
 ### [live demo](https://sphen.net/fry-quotes-frontend/).

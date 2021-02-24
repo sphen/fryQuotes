@@ -1,1 +1,1 @@
-web: node fryQuote.js
+web: node app.js

@@ -4,10 +4,10 @@ A simple api for serving up quotes from Phillip J Fry. Built with [mongodb](http
 
 ## Planned Updates
 
-[x] Add more quotes from Fry.
-[x] Update to modern javascript.
-[x] Update to MongoDB.
-[] Add quotes from [Stephen Fry](https://en.wikipedia.org/wiki/Stephen_Fry).
+- [x] Add more quotes from Fry.
+- [x] Update to modern javascript.
+- [x] Update to MongoDB.
+- [ ] Add quotes from [Stephen Fry](https://en.wikipedia.org/wiki/Stephen_Fry).
 
 #### Currently hosted on Heroku @ https://fry-quotes-api.herokuapp.com/
 
